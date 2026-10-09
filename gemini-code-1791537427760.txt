@@ -1,0 +1,21 @@
+legalease/
+├── backend/
+│   ├── package.json
+│   ├── .env
+│   ├── server.js
+│   ├── routes/
+│   │   └── documentRoutes.js
+│   ├── controllers/
+│   │   └── documentController.js
+│   └── prompts/
+│       └── legalTemplates.js
+└── frontend/
+    ├── package.json
+    ├── src/
+    │   ├── App.jsx
+    │   ├── main.jsx
+    │   ├── index.css
+    │   └── components/
+    │       ├── DocumentForm.jsx
+    │       └── DocumentPreview.jsx
+    └── tailwind.config.js
